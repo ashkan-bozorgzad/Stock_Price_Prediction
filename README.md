@@ -1,1 +1,7 @@
-# Stock_Price_Prediction
+# Stock Price Prediction
+
+#### Repository Description
+
+
+####  Authors:
++ Ashkan Bozorgzad
